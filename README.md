@@ -212,7 +212,7 @@ Use AI-assisted content creation, build your first publishing workflows, and see
 
 ## Demo
 
-[![Demo Video](https://img.youtube.com/vi//0.jpg4z2XTo1ueRw)](https://www.youtube.com/watch?v=4z2XTo1ueRw)
+[![Demo Video](https://img.youtube.com/vi/4z2XTo1ueRw/0.jpg)](https://www.youtube.com/watch?v=4z2XTo1ueRw)
 
 ---
 
