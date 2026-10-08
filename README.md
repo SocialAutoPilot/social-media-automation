@@ -210,7 +210,7 @@ Use AI-assisted content creation, build your first publishing workflows, and see
 
 [Explore JarveePro Nexus](https://jarveepro.com/)
 
-https://www.youtube.com/shorts/Bdkpsf0l4uY
+"C:\Users\DK\Desktop\WHB\2 产品负责人阶段\JarveePro\JarveePro 5 is Coming\JP Nexus overview\JP Nexus overview.mp4"
 
 ---
 
